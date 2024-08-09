@@ -1,5 +1,6 @@
 import React, { useState, useContext } from 'react';
 import { VoteContext } from '../Context/VoteContext';
+import './AddVoteForm.css'
 
 
 const AddVoteForm = () => {

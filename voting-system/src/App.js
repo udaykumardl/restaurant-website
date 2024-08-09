@@ -1,8 +1,9 @@
 import React, { useState,useContext} from 'react';
 import AddVoteForm from './Components/Candidate/AddVoteForm';
 import CandidateList from './Components/Candidate/CandidateList';
-import { Modal } from 'bootstrap';
+
 import { VoteProvider ,VoteContext} from './Components/Context/VoteContext';
+import Modal from './Components/Modal/Modal';
 
 
 function App() {
