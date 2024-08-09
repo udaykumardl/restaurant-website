@@ -1,0 +1,32 @@
+.shoe-list {
+    padding: 20px;
+  }
+  
+  .shoe-list h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .shoe-list input {
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .shoe-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .shoe-card h3 {
+    margin: 0;
+  }
+  
+  .shoe-card p {
+    margin: 10px
+  }

@@ -1,0 +1,26 @@
+.header-cart-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: hwb(300 19% 79%);
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 25px;
+    font-size: 1rem;
+  }
+  
+  .header-cart-button:hover {
+    background-color: #a06045;
+  }
+  
+  .header-cart-button .badge {
+    background-color: #ff6347;
+    border-radius: 12px;
+    padding: 0.25rem 0.75rem;
+    margin-left: 0.5rem;
+    font-weight: bold;
+  }
+  
+  

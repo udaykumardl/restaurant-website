@@ -1,0 +1,46 @@
+/* ShoeList.css */
+
+.shoe-list-container {
+    padding: 20px;
+  }
+  
+  .shoe-item {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .shoe-item h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .shoe-item p {
+    margin: 0;
+  }
+  
+  .select-size-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .select-size-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+  }
+  
